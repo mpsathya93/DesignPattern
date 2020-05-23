@@ -1,4 +1,4 @@
-package test;
+package justcoders.designpattern.examples.main;
 
 import AbstractDesignPattern.BackgroundThemeColor;
 import AbstractDesignPattern.Text;
