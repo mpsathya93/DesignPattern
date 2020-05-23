@@ -1,8 +1,8 @@
-package test;
+package justcoders.designpattern.examples.main;
 
-import AbstractDesignPattern.DarkThemeFactory;
-import AbstractDesignPattern.LightThemeFactory;
-import AbstractDesignPattern.ThemeFactory;
+import justcoders.designpattern.examples.DarkThemeFactory;
+import justcoders.designpattern.examples.LightThemeFactory;
+import justcoders.designpattern.examples.ThemeFactory;
 
 public class ApplicationConfiguration {
 
