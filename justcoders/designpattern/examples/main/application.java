@@ -1,8 +1,8 @@
 package justcoders.designpattern.examples.main;
 
-import AbstractDesignPattern.BackgroundThemeColor;
-import AbstractDesignPattern.Text;
-import AbstractDesignPattern.ThemeFactory;
+import justcoders.designpattern.examples.BackgroundThemeColor;
+import justcoders.designpattern.examples.Text;
+import justcoders.designpattern.examples.ThemeFactory;
 
 public class Application {
    private Text text;
