@@ -1,4 +1,4 @@
-package AbstractDesignPattern;
+package justcoders.designpattern.examples;
 
 public class DarkThemeFactory implements ThemeFactory{
 
